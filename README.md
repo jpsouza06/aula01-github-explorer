@@ -1,4 +1,8 @@
-# aula01-github-explorer
-Capitulo I, trilha ReactJS do ignite da Rocketseat!
+# github-explorer
 
-Nesta aula foi desenvolvida uma aplicação básica sobre os conceitos de ReactJS, utilizando a API do GitHub buscando repositórios!
+![WhatsApp Image 2021-09-29 at 13 18 42](https://user-images.githubusercontent.com/54922299/135309536-ed8e26e0-dc89-4471-9ccd-0c82eaae49eb.jpeg)
+
+Projeto simples para fazer buscas na API do GitHub, buscando repositorios é mostrando em tela.
+
+O foco do projeto é apresentar os conceitos básicos do ReactJS, como:
+Components, State, e Props
